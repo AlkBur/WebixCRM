@@ -1,0 +1,7 @@
+/.env
+/.vscode
+/20220124-0555-01-log.txt.gz
+/log.txt
+/logs
+/node_modules
+/package-lock.json
